@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 
 API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("7934341869:AAHgU6sVxXsmNGMgVgMqYo6tl61NB-Kpt-k")
 
 TIKCDN_API = "https://api.tikcdn.io/v1/video"
 
